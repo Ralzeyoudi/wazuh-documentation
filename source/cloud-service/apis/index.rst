@@ -13,7 +13,7 @@ Wazuh Cloud provides a Wazuh Cloud API that allows you to perform some operation
 This section provides information on the following:
 
    .. toctree::
-      :maxdepth: 1
+      :maxdepth: 2
 		 
       authentication
       reference
